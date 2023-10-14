@@ -10,6 +10,6 @@ Feel free to explore my code, provide feedback, or collaborate with me. Let's le
 
 ## Contact
 
-If you have any questions or would like to get in touch, you can reach out to me at [your.email@example.com](mailto:your.email@example.com).
+If you have any questions or would like to get in touch, you can reach out to me at [weronika.julia.jastrzebska@gmail.com](mailto:weronika.julia.jastrzebska@gmail.com).
 
 Happy coding! 🚀
