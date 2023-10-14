@@ -1,16 +1,15 @@
-### Hi there 👋
+## About Me
 
-<!--
-**weronikajulia/weronikajulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Weronika, and I'm 20 years old. I'm currently studying computer science at Warsaw University of Technology. I'm just beginning my programming journey and am very eager to learn! I have a strong interest in machine learning, and that's the path I'd like to explore now.
 
-Here are some ideas to get you started:
+## Repository Introduction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository serves as a platform for documenting my progress and projects in the field of machine learning as I embark on this exciting journey. Join me as I delve into the world of artificial intelligence and develop new skills.
+
+Feel free to explore my code, provide feedback, or collaborate with me. Let's learn and grow together!
+
+## Contact
+
+If you have any questions or would like to get in touch, you can reach out to me at [your.email@example.com](mailto:your.email@example.com).
+
+Happy coding! 🚀
