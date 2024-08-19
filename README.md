@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Weronika, and I'm 20 years old. I'm currently studying computer science at Warsaw University of Technology. I'm just beginning my programming journey and am very eager to learn! I have a strong interest in machine learning, and that's the path I'd like to explore now.
+My name is Weronika, and I am 21 years old. I'm currently studying computer science at Warsaw University of Technology. I'm just beginning my programming journey and am very eager to learn! I have a strong interest in machine learning, and that's the path I'd like to explore now.
 
 ## Repository Introduction
 
